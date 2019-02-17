@@ -4,3 +4,4 @@ Jazz musician Miles Davis has made music in a variety of styles, in which acoust
 
 I have found out that if you compare the album Kind of Blue (1959) and Doo-Bop (1992) that while the mean of the energy on Kind of Blue is 0.165 the mean of the energy on Doo-Bop is 0.678. The means of the acousticness respectively are 0.715 and 0.00697.
 Below you can see a graph in which the acousticness is set against the energy.
+![Miles Davis acousticness - energy - loudness] (Miles davis en-ac-loud 1.png)
